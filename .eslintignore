@@ -1,0 +1,6 @@
+**/node_modules/*
+**/build/*
+**/dist/*
+shime-uni.d.ts
+env.d.ts
+/src/wxcomponents/*
